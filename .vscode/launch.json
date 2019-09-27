@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SparkApiApp",
+            "request": "launch",
+            "mainClass": "eci.arep.SparkUsingApiGateway.SparkApiApp",
+            "projectName": "SparkUsingApiGateway"
+        }
+    ]
+}
